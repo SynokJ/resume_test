@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a2996bc50802a48be3f582fec72bcc, type: 3}
+  m_Name: Aly
+  m_EditorClassIdentifier: 
+  itemName: Ally Pack
+  previewSprite: {fileID: 1554832132, guid: a6350117f31efa546ae49d08e502c1f4, type: 3}
+  isBought: 0
+  prise: 300
+  AnimatorPath: Animations/Player/Aly_0
+  SpritePath: Sprites/Player/Aly
